@@ -3,11 +3,7 @@
 
 <head>
 
-	<meta charset="iso-8595-1" />
-	<meta name="description" content="pagina de enseñanza html5" />
-	<meta name="keywords" content="html5, css3, javascript, diseño web" />
 	<title>bio whole</title>
-	<link rel="stylesheet" href="mihojadeestilos.css" />
 
 </head>
 
